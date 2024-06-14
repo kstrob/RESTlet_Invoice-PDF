@@ -15,7 +15,7 @@ These instructions will get you a copy of the project up and running on your Net
 
 ### Installation
 1. Log in to your NetSuite account and navigate to Customization > Scripting > Scripts > New.
-2. Download the script provided `file generateInvoicePDF` in this repository
+2. Download the script provided [here](https://github.com/kstrob/RESTlet_Invoice-PDF/blob/main/generateInvoicePDF.js)
 3. Upload the script file from the repository (Ensure that the name of the file matches the "file Name" when you upload it into Netsuite).
 4. Create a Script Record and deploy it, associating it with the relevant Invoice form.
 5. Copy the script ID and deploy ID
